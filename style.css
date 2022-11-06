@@ -1,0 +1,22 @@
+.navbar .navbar-brand,
+.content .nama h4 {
+  color: #ffde00;
+}
+.content .opi svg {
+  width: 500px;
+}
+
+.content .opi img {
+  width: 350px;
+  display: block;
+  margin-right: 5em;
+  margin-top: -9em;
+}
+.about .link a i {
+  color: black;
+}
+.about .link a:hover i {
+  color: #ffde00;
+}
+
+
